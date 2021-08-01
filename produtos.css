@@ -1,5 +1,5 @@
 header {
-	background: hotpink;
+	background: #A680BF;
 	padding: 5px 0;
 }
 
@@ -22,14 +22,14 @@ nav li {
 
 nav a {
 	text-transform: uppercase;
-	color: deeppink;
+	color: white;
 	font-weight: bold;
 	font-size: 22px;
 	text-decoration: none;
 }
 
 nav a:hover {
-	color: white;
+	color: #EDC900;
 	
 }
 
@@ -48,21 +48,21 @@ nav a:hover {
 	margin: 0 1.5%;
 	padding: 30px 20px;
 	box-sizing: border-box;
-	border: 2px solid deeppink;
+	border: 2px solid #A680BF;
 	border-radius: 10px;
 }
 
 .produtos li:hover {
-	border-color: steelblue;
+	border-color: #F57FE9;
 	box-sizing: border-box;
 }
 
 .produtos li:active {
-	border-color: blue;	
+	border-color: #EDC900;	
 }
 
 .produtos li:hover h2 {
-	color: steelblue;
+	color: #F57FE9;
 	font-size: 34px;
 }
 
