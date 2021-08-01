@@ -1,0 +1,17 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.contato {
+	width: 940px;
+	margin: 0 auto;
+	padding: 225px 0;
+}
+
+
+footer {
+	position: relative;
+	text-align: center;
+	background-image: linear-gradient(to right, #A463C2,#5F3075 );
+	margin: 0 auto;
+}
